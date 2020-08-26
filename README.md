@@ -18,6 +18,6 @@ Install SentimentJS
 Install TextBlob     
 `pip install -U textblob`     
 
-`python -m textblob.download_corpora`
+`python -m textblob.download_corpora`    
 
-
+Check out jupyter notebook [getting started](https://jupyter.readthedocs.io/en/latest/content-quickstart.html), if unfamiliar.
