@@ -8,7 +8,7 @@ Extract zip and open tweet.js inside data folder. Remove the array variable decl
 ![Js-to-Json](https://media.giphy.com/media/QyKRcGEoAbR8Mii61R/giphy.gif)
 
 ### Translating Text with Google Cloud
-Setup your gcloud account/project for advanced text translation by going through this [guide](https://cloud.google.com/translate/docs/advanced/translating-text-v3). Edit your project details in scripts.
+Setup your gcloud account/project for advanced text translation by going through this [guide](https://cloud.google.com/translate/docs/advanced/translating-text-v3) and edit your project details in scripts.
 
 ### For Node.js
 Install SentimentJS     
@@ -16,7 +16,7 @@ Install SentimentJS
 
 ### For Python
 Install TextBlob     
-`pip install -U textblob
-python -m textblob.download_corpora`
+`pip install -U textblob`
+`python -m textblob.download_corpora`
 
 
