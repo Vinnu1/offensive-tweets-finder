@@ -16,7 +16,8 @@ Install SentimentJS
 
 ### For Python
 Install TextBlob     
-`pip install -U textblob`
+`pip install -U textblob`     
+
 `python -m textblob.download_corpora`
 
 
